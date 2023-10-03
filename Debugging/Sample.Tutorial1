@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<world xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="087153de-699a-4f04-a18e-a6f0c33d81ce" xmlns="http://schemas.microsoft.com/dsltools/Tutorial1">
+  <elements>
+    <country Id="4bb6cfdc-7afe-4257-9189-45feec399576" name="Netherlands">
+      <targets>
+        <countryMoniker name="/087153de-699a-4f04-a18e-a6f0c33d81ce/Germany" />
+      </targets>
+      <city>
+        <countryHasCity Id="3a0c11d3-c48f-4291-91c6-ca6e22972fab">
+          <city Id="8e69f391-1331-4733-8841-1477d2f39a10" name="The Hague" population="10000" location="Zuid-Holland" />
+        </countryHasCity>
+      </city>
+    </country>
+    <country Id="50d7d7ff-3f3a-45a2-8088-f16a78b7c207" name="Germany" />
+  </elements>
+</world>

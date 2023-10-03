@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tutorial1Diagram dslVersion="1.0.0.0" Id="1cf90d4a-99fb-43c7-a385-78efb7ccf1af" absoluteBounds="0, 0, 11, 8.5" name="Sample">
+  <worldMoniker Id="087153de-699a-4f04-a18e-a6f0c33d81ce" />
+  <nestedChildShapes>
+    <countryShape Id="ac7a68a8-b21a-43ad-a1b3-0111045a0fb9" absoluteBounds="0.875, 1.5, 2, 0.75">
+      <countryMoniker name="/087153de-699a-4f04-a18e-a6f0c33d81ce/Netherlands" />
+    </countryShape>
+    <countryShape Id="c6de5445-5697-4407-b201-aafbca7d9594" absoluteBounds="3.25, 3, 2, 0.75">
+      <countryMoniker name="/087153de-699a-4f04-a18e-a6f0c33d81ce/Germany" />
+    </countryShape>
+    <exampleConnector Id="9f910740-502b-4402-8afc-7e1e25785a9f" edgePoints="[(1.59375 : 2.23486294998713); (1.59375 : 3.375); (3.25 : 3.375)]" fixedFrom="NotFixed" fixedTo="NotFixed" TargetRelationshipDomainClassId="0353c5f2-5fd6-4ccd-885e-b77f13073530">
+      <nodes>
+        <countryShapeMoniker Id="ac7a68a8-b21a-43ad-a1b3-0111045a0fb9" />
+        <countryShapeMoniker Id="c6de5445-5697-4407-b201-aafbca7d9594" />
+      </nodes>
+    </exampleConnector>
+    <cityShape Id="7b1a6725-420f-4e9c-ab05-8cf029e3839b" absoluteBounds="2.375, 1.75, 1.5, 1">
+      <cityMoniker Id="8e69f391-1331-4733-8841-1477d2f39a10" />
+    </cityShape>
+  </nestedChildShapes>
+</tutorial1Diagram>
